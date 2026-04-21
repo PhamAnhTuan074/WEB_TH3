@@ -1,9 +1,4 @@
-# Hướng dẫn chạy project FullStack
 
-Project gồm 2 phần:
-
-- Front-end: React + Vite + React Router + Axios
-- Back-end: ASP.NET Core Web API + EF Core + SQLite
 
 ## 1. Yêu cầu cài đặt
 
