@@ -158,7 +158,7 @@ src/pages/StatisticsPage.jsx
 ## 8. Lưu ý khi chạy
 
 Nên chạy Back-end trước, sau đó chạy Front-end.
-Nếu Front-end báo không tải được dữ liệu, kiểm tra:
+Nếu Front-end báo không tải được dữ liệu, kiểm tra
 
 1. Back-end đã chạy ở `http://localhost:5000` chưa.
 2. File `.env` có đúng `VITE_API_URL=http://localhost:5000/api` không.
